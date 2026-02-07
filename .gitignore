@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+*.db
+*.db-journal
+Resguardo/*.zip
+uploads/
